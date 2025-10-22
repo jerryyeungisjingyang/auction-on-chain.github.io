@@ -1,1 +1,0 @@
-# auction-on-chain.github.io
